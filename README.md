@@ -25,19 +25,19 @@ Best fit: senior/staff full-stack engineering, technical leadership, and AI-enab
 - Ship frontend products with React, Next.js, Angular, WebSockets, D3.js, and TypeScript.
 - Mentor engineers, raise code-review standards, support hiring, and keep teams moving.
 
-## Selected Public Repositories
+## Open Source Work
+
+- [r4bbit](https://github.com/r4bbitjs/r4bbitjs) - TypeScript RabbitMQ abstraction with docs, examples, tests, CI, package publishing, reconnection support, and logging/tracing.
+- [Samsung/TAU-Design-Editor](https://github.com/Samsung/TAU-Design-Editor) - While at Samsung R&D, contributed extensively to the JavaScript drag-and-drop/WYSIWYG editor for TAU-based web apps, including VS Code extension support, editor UX, components, tests, build tooling, and Windows compatibility.
+
+## Selected Personal Repositories
 
 | Project | What it shows |
 | --- | --- |
-| [r4bbit](https://github.com/r4bbitjs/r4bbitjs) | TypeScript RabbitMQ abstraction with docs, examples, tests, CI, package publishing, reconnection support, and logging/tracing. |
 | [ai-chatbot](https://github.com/hsiwkin/ai-chatbot) | Prototype AI assistant with Next.js, LangChain, OpenAI, and PostgreSQL vector memory. |
 | [snake_2.0](https://github.com/hsiwkin/snake_2.0) | Small vanilla TypeScript browser game with Vite, Jest, and GitHub Pages. |
 | [sokoban](https://github.com/hsiwkin/sokoban) | Small Unity/C# puzzle game with text-based level generation and 3D gameplay. |
 | [cv](https://github.com/hsiwkin/cv) | Current CV maintained in LaTeX/PDF. |
-
-## Open Source Contributions
-
-- [Samsung/TAU-Design-Editor](https://github.com/Samsung/TAU-Design-Editor) - While at Samsung R&D, contributed extensively to the JavaScript drag-and-drop/WYSIWYG editor for TAU-based web apps, including VS Code extension support, editor UX, components, tests, build tooling, and Windows compatibility.
 
 Most of my recent production work lives in private company repositories, so I use this profile to make the public signal clear: backend architecture, messaging, AI-enabled product work, and technical leadership.
 
