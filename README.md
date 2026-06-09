@@ -35,6 +35,10 @@ Best fit: senior/staff full-stack engineering, technical leadership, and AI-enab
 | [sokoban](https://github.com/hsiwkin/sokoban) | Small Unity/C# puzzle game with text-based level generation and 3D gameplay. |
 | [cv](https://github.com/hsiwkin/cv) | Current CV maintained in LaTeX/PDF. |
 
+## Open Source Contributions
+
+- [Samsung/TAU-Design-Editor](https://github.com/Samsung/TAU-Design-Editor) - While at Samsung R&D, contributed extensively to the JavaScript drag-and-drop/WYSIWYG editor for TAU-based web apps, including VS Code extension support, editor UX, components, tests, build tooling, and Windows compatibility.
+
 Most of my recent production work lives in private company repositories, so I use this profile to make the public signal clear: backend architecture, messaging, AI-enabled product work, and technical leadership.
 
 ## Recent Professional Focus
